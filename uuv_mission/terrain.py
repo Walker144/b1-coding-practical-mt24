@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+
 import pandas as pd
 
 def generate_random_multisine_timeseries(length=100):
